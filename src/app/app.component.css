@@ -8,7 +8,7 @@
 
 .menu-lateral{
     margin-left: 100px;
-    width: 150px;
+    width: 110px;
     height: 200%;
     background-color: rgb(223, 221, 221);
     color:black;
@@ -22,7 +22,7 @@
 }
 
 img{
-    width: 80px;
+    width: 60px;
     margin-top: 30px;
     margin-left: 20% ;
     flex-direction: column;
